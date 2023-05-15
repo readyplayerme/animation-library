@@ -6,8 +6,8 @@ This repository contains a library of high quality motion captured animations th
 
 | Character | Description |
 | --------- | ----------- |
-| [Female](/female/) | Animations retargeted to Ready Player Me Female Armature |
-| [Male](/male/) | Animations retargeted to Ready Player Me Male Armature |
+| [Female](/female/fbx/) | Animations retargeted to Ready Player Me Female Armature |
+| [Male](/male/fbx/) | Animations retargeted to Ready Player Me Male Armature |
 
 
 ## Note
