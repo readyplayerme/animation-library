@@ -20,3 +20,7 @@ The animation filename prefix denotes which actor gender was used to generate th
 | --------- | ----------- |
 | M_ | Motion captured from male actor |
 | F_ | Motion captured from female actress |
+
+## Loading animations onto Ready Player Me avatars
+
+Please refer to the tutorials found here <link to tutorials in RPM docs> to learn how to load the provided animations onto Ready Player Me avatars.
