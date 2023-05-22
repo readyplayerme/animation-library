@@ -1,6 +1,8 @@
-# Welcome to the Ready Player Me Animation library.
+<div align="center">
+    <img src="https://readyplayer.me/images/home/logo.svg" width="20%">
+</div>
 
-game-ready animations 
+# Free Game-Ready Animation Library from Ready Player Me
 
 This repository contains a library of high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in your projects as per the license found [here](LICENSE.md).
 
@@ -34,19 +36,19 @@ Click here to access the entire [Masculine Library](/masculine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
-<img src="feminine\gif\locomotion\F_Run_001.gif" style="width:100%">
+<img src="masculine\gif\locomotion\F_Run_001.gif" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/locomotion" target="_blank">Locomotion</a></div>
 </td>
 <td style="width: 25%;">
-<img src="feminine/gif/dance/F_Dances_005.gif" style="width:100%">
+<img src="masculine/gif/dance/F_Dances_001.gif" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/dance" target="_blank">Dance</a></div>
 </td>
 <td style="width: 25%;">
-<img src="feminine/gif/expression/F_Talking_Variations_001.gif" style="width:100%">
+<img src="masculine/gif/expression/F_Talking_Variations_004.gif" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/expression" target="_blank">Expression</a></div>
 </td>
 <td style="width: 25%;">
-<img src="feminine/gif/idle/F_Standing_Idle_Variations_002.gif" style="width:100%">
+<img src="masculine/gif/idle/F_Standing_Idle_Variations_001.gif" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/idle" target="_blank">Idle</a></div>
 </td>
 </tr>
