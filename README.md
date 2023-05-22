@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
     <img src="https://readyplayer.me/images/home/logo.svg" width="20%">
 </div>
 
 # Free Game-Ready Animation Library from Ready Player Me
 
-This repository contains a library of high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in your projects as per the license found [here](LICENSE.md).
+This repository contains the initial batch of 200+ high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in your projects as per the license found [here](LICENSE.md).
 
 All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed below.
 
@@ -61,10 +61,23 @@ Click here to access the entire [Masculine Library](/masculine/fbx/)
 | [Female](/female/fbx/) | Animations retargeted to Ready Player Me Female Armature |
 | [Male](/male/fbx/) | Animations retargeted to Ready Player Me Male Armature |
 
+## FAQ
 
-## Note
+### Are these animations really free?
+Yes, free as in beer! We created this animation library to help the game development community create more unique and engaging experiences. This is just the first batch of many more free releases. Please read our [license for more details](LICENSE.md).
 
-The animations included in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed in the table above.
+### Can I use these animations with characters that are not from Ready Player Me?
+Although we've retargeted each animation specifically for the skeletons we use at Ready Player Me, you are free to use them with our avatars or with your own creations.
+
+### When will more animations be released?
+This is just the first batch of animations we're releasing to the community. We will continue releasing animations throughout 2023 and beyond.
+
+### What software do I need to use with these animations?
+You can use any software that supports FBX files, including Unity, Unreal Engine, Blender, Maya, Sketchfab, etc. 
+
+### Where can I get help using these animations?
+Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
+
 
 The animation filename prefix denotes which actor gender was used to generate the motion:
 
