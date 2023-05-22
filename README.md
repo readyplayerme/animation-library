@@ -2,6 +2,27 @@
 
 This repository contains a library of high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in your projects as per the license found [here](LICENSE.md).
 
+<table style="width: 100%; table-layout: fixed;">
+<tr>
+<td style="width: 25%;">
+<img src="feminine\gif\locomotion\F_Run_001.gif" style="width:100%">
+  <div class="caption" align=middle> <a href="feminine/gif/locomotion" target="_blank">Locomotion</a></div>
+</td>
+<td style="width: 25%;">
+<img src="feminine/gif/dance/F_Dances_005.gif" style="width:100%">
+<div class="caption" align=middle> Dance</div>
+</td>
+<td style="width: 25%;">
+<img src="feminine/gif/expression/F_Talking_Variations_001.gif" style="width:100%">
+<div class="caption" align=middle> Expression</div>
+</td>
+<td style="width: 25%;">
+<img src="feminine/gif/idle/F_Standing_Idle_Variations_002.gif" style="width:100%">
+<div class="caption" align=middle> Idle</div>
+</td>
+</tr>
+</table>
+
 *(Click on the character name in the table below to preview and download the available animations for a specific Ready Player Me character)*
 
 | Character | Description |
