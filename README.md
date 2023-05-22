@@ -1,24 +1,53 @@
 # Welcome to the Ready Player Me Animation library.
 
+game-ready animations 
+
 This repository contains a library of high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in your projects as per the license found [here](LICENSE.md).
 
+All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed below.
+
+### Feminine Characters
+Click here to access the entire [Feminine Library](/feminine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
 <img src="feminine\gif\locomotion\F_Run_001.gif" style="width:100%">
-  <div class="caption" align=middle> <a href="feminine/gif/locomotion" target="_blank">Locomotion</a></div>
+  <div class="caption" align=middle> <a href="feminine/fbx/locomotion" target="_blank">Locomotion</a></div>
 </td>
 <td style="width: 25%;">
 <img src="feminine/gif/dance/F_Dances_005.gif" style="width:100%">
-<div class="caption" align=middle> Dance</div>
+  <div class="caption" align=middle> <a href="feminine/fbx/dance" target="_blank">Dance</a></div>
 </td>
 <td style="width: 25%;">
 <img src="feminine/gif/expression/F_Talking_Variations_001.gif" style="width:100%">
-<div class="caption" align=middle> Expression</div>
+  <div class="caption" align=middle> <a href="feminine/fbx/expression" target="_blank">Expression</a></div>
 </td>
 <td style="width: 25%;">
 <img src="feminine/gif/idle/F_Standing_Idle_Variations_002.gif" style="width:100%">
-<div class="caption" align=middle> Idle</div>
+  <div class="caption" align=middle> <a href="feminine/fbx/idle" target="_blank">Idle</a></div>
+</td>
+</tr>
+</table>
+
+### Masculine Characters
+Click here to access the entire [Masculine Library](/masculine/fbx/)
+<table style="width: 100%; table-layout: fixed;">
+<tr>
+<td style="width: 25%;">
+<img src="feminine\gif\locomotion\F_Run_001.gif" style="width:100%">
+  <div class="caption" align=middle> <a href="masculine/fbx/locomotion" target="_blank">Locomotion</a></div>
+</td>
+<td style="width: 25%;">
+<img src="feminine/gif/dance/F_Dances_005.gif" style="width:100%">
+  <div class="caption" align=middle> <a href="masculine/fbx/dance" target="_blank">Dance</a></div>
+</td>
+<td style="width: 25%;">
+<img src="feminine/gif/expression/F_Talking_Variations_001.gif" style="width:100%">
+  <div class="caption" align=middle> <a href="masculine/fbx/expression" target="_blank">Expression</a></div>
+</td>
+<td style="width: 25%;">
+<img src="feminine/gif/idle/F_Standing_Idle_Variations_002.gif" style="width:100%">
+  <div class="caption" align=middle> <a href="masculine/fbx/idle" target="_blank">Idle</a></div>
 </td>
 </tr>
 </table>
