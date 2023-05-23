@@ -7,8 +7,9 @@
 
 ### Contents
 - [Overview](#overview)
-- [Feminine Animations](#feminine-animations)
-- [Masculine Animations](#masculine-animations)
+- [Animations](#animations)
+    - [Feminine Animations](#feminine-animations)
+    - [Masculine Animations](#masculine-animations)
 - [Frequently Asked Questions](#faq)
 - [Tutorials](#tutorials)
 - [Notes](#notes)
@@ -19,7 +20,12 @@ This repository contains the initial batch of 200+ high quality motion captured 
 
 All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed below.
 
+## Animations
+
+You will find the character animations below broken down by feminine and masculine actors, and by animation category.
+
 </br>
+
 ### Feminine Animations
 
 Click here to access the entire [Feminine Character Library](/feminine/fbx/)
@@ -45,6 +51,7 @@ Click here to access the entire [Feminine Character Library](/feminine/fbx/)
 </table>
 
 </br>
+
 ### Masculine Animations
 Click here to access the entire [Masculine Character Library](/masculine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
@@ -78,6 +85,7 @@ Click here to access the entire [Masculine Character Library](/masculine/fbx/)
 
 -->
 </br>
+
 ## FAQ
 
 ### Are these animations really free?
@@ -90,15 +98,19 @@ Although we've retargeted each animation specifically for the skeletons we use a
 This is just the first batch of animations we're releasing to the community. We will continue releasing animations throughout 2023 and beyond.
 
 ### What software do I need to use with these animations?
-You can use any software that supports FBX files, including Unity, Unreal Engine, Blender, Maya, Sketchfab, etc. 
+You can use any software that supports FBX file type, including Unity, Unreal Engine, Blender, Maya, Sketchfab, etc. 
 
 ### Where can I get help using these animations?
 Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
+
 </br>
+
 ## Tutorials
 
 Please refer to the tutorials found here <link to tutorials in RPM docs> to learn how to load the provided animations onto Ready Player Me avatars.
+
 </br>
+
 ## Notes
 
 The animation filename prefix denotes which actor gender was used to generate the motion:
