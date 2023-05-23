@@ -3,7 +3,7 @@
 </div>
 
 # Game-Ready Animation Library by Ready Player Me
-### Version 0.0.1 - Published June 2023
+### Version 1.0.0 - Published June 2023
 
 ### Contents
 - [Overview](#overview)
