@@ -7,8 +7,8 @@
 
 ### Contents
 - [Overview](#overview)
-- [Feminine Animations](#Feminine-animations)
-- [Masculine Animations](#Masculine-characters)
+- [Feminine Animations](#feminine-animations)
+- [Masculine Animations](#masculine-animations)
 - [Frequently Asked Questions](#faq)
 - [Tutorials](#tutorials)
 - [Notes](#notes)
