@@ -18,17 +18,17 @@
 
 This repository contains the initial batch of 200+ high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in any of your projects as per the license found [here](LICENSE.md).
 
-All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed below.
+All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been retargeted to each Ready Player Me character.
 
 ## Animations
 
-You will find the character animations below broken down by feminine and masculine actors, and by animation category.
+You will find links below to all the character animations broken down by animation category and retargeted to the latest Ready Player Me Feminine and Masculine armatures.
 
 </br>
 
 ### Feminine Animations
 
-Click here to access the entire [Feminine Character Library](/feminine/fbx/)
+Click here to access the entire [Ready Player Me Feminine Character Library](/feminine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
@@ -53,7 +53,7 @@ Click here to access the entire [Feminine Character Library](/feminine/fbx/)
 </br>
 
 ### Masculine Animations
-Click here to access the entire [Masculine Character Library](/masculine/fbx/)
+Click here to access the entire [Ready Player Me Masculine Character Library](/masculine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
