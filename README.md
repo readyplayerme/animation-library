@@ -2,14 +2,18 @@
     <img src="https://readyplayer.me/images/home/logo.svg" width="20%">
 </div>
 
-# Free Game-Ready Animation Library from Ready Player Me
+# Game-Ready Animation Library by Ready Player Me
+### Version 0.0.1 - Published June 2023
 
-This repository contains the initial batch of 200+ high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in your projects as per the license found [here](LICENSE.md).
+This repository contains the initial batch of 200+ high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in any of your projects as per the license found [here](LICENSE.md).
 
 All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed below.
 
-### Feminine Characters
-Click here to access the entire [Feminine Library](/feminine/fbx/)
+### Contents
+- [Female Characters](#female-characters)
+
+### Female Characters
+Click here to access the entire [Female Character Library](/feminine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
@@ -31,8 +35,8 @@ Click here to access the entire [Feminine Library](/feminine/fbx/)
 </tr>
 </table>
 
-### Masculine Characters
-Click here to access the entire [Masculine Library](/masculine/fbx/)
+### Male Characters
+Click here to access the entire [Male Character Library](/masculine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
@@ -54,12 +58,15 @@ Click here to access the entire [Masculine Library](/masculine/fbx/)
 </tr>
 </table>
 
+<!--
 *(Click on the character name in the table below to preview and download the available animations for a specific Ready Player Me character)*
 
 | Character | Description |
 | --------- | ----------- |
 | [Female](/female/fbx/) | Animations retargeted to Ready Player Me Female Armature |
 | [Male](/male/fbx/) | Animations retargeted to Ready Player Me Male Armature |
+
+-->
 
 ## FAQ
 
@@ -78,6 +85,8 @@ You can use any software that supports FBX files, including Unity, Unreal Engine
 ### Where can I get help using these animations?
 Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
 
+
+##Notes
 
 The animation filename prefix denotes which actor gender was used to generate the motion:
 
