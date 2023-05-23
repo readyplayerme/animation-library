@@ -19,7 +19,7 @@ This repository contains the initial batch of 200+ high quality motion captured 
 
 All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed below.
 
-
+</br>
 ### Feminine Animations
 
 Click here to access the entire [Feminine Character Library](/feminine/fbx/)
@@ -44,6 +44,7 @@ Click here to access the entire [Feminine Character Library](/feminine/fbx/)
 </tr>
 </table>
 
+</br>
 ### Masculine Animations
 Click here to access the entire [Masculine Character Library](/masculine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
@@ -76,7 +77,7 @@ Click here to access the entire [Masculine Character Library](/masculine/fbx/)
 | [Male](/male/fbx/) | Animations retargeted to Ready Player Me Male Armature |
 
 -->
-
+</br>
 ## FAQ
 
 ### Are these animations really free?
@@ -93,11 +94,11 @@ You can use any software that supports FBX files, including Unity, Unreal Engine
 
 ### Where can I get help using these animations?
 Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
-
+</br>
 ## Tutorials
 
 Please refer to the tutorials found here <link to tutorials in RPM docs> to learn how to load the provided animations onto Ready Player Me avatars.
-
+</br>
 ## Notes
 
 The animation filename prefix denotes which actor gender was used to generate the motion:
