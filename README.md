@@ -5,15 +5,24 @@
 # Game-Ready Animation Library by Ready Player Me
 ### Version 0.0.1 - Published June 2023
 
+### Contents
+- [Overview](#overview)
+- [Feminine Animations](#Feminine-animations)
+- [Masculine Animations](#Masculine-characters)
+- [Frequently Asked Questions](#faq)
+- [Tutorials](#tutorials)
+- [Notes](#notes)
+
+## Overview
+
 This repository contains the initial batch of 200+ high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in any of your projects as per the license found [here](LICENSE.md).
 
 All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been applied to each Ready Player Me character listed below.
 
-### Contents
-- [Female Characters](#female-characters)
 
-### Female Characters
-Click here to access the entire [Female Character Library](/feminine/fbx/)
+### Feminine Animations
+
+Click here to access the entire [Feminine Character Library](/feminine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
@@ -35,8 +44,8 @@ Click here to access the entire [Female Character Library](/feminine/fbx/)
 </tr>
 </table>
 
-### Male Characters
-Click here to access the entire [Male Character Library](/masculine/fbx/)
+### Masculine Animations
+Click here to access the entire [Masculine Character Library](/masculine/fbx/)
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
@@ -85,8 +94,11 @@ You can use any software that supports FBX files, including Unity, Unreal Engine
 ### Where can I get help using these animations?
 Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
 
+## Tutorials
 
-##Notes
+Please refer to the tutorials found here <link to tutorials in RPM docs> to learn how to load the provided animations onto Ready Player Me avatars.
+
+## Notes
 
 The animation filename prefix denotes which actor gender was used to generate the motion:
 
@@ -94,7 +106,3 @@ The animation filename prefix denotes which actor gender was used to generate th
 | --------- | ----------- |
 | M_ | Motion captured from male actor |
 | F_ | Motion captured from female actress |
-
-## Loading animations onto Ready Player Me avatars
-
-Please refer to the tutorials found here <link to tutorials in RPM docs> to learn how to load the provided animations onto Ready Player Me avatars.
