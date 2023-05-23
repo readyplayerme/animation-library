@@ -98,7 +98,7 @@ Although we've retargeted each animation specifically for the skeletons we use a
 This is just the first batch of animations we're releasing to the community. We will continue releasing animations throughout 2023 and beyond.
 
 ### What software do I need to use with these animations?
-You can use any software that supports FBX file type, including Unity, Unreal Engine, Blender, Maya, Sketchfab, etc. 
+You can use any software that supports the FBX file type, including Unity, Unreal Engine, Blender, Maya, Sketchfab, etc. 
 
 ### Where can I get help using these animations?
 Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
