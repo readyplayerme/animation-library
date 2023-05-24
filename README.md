@@ -5,7 +5,7 @@
 # Game-Ready Animation Library by Ready Player Me
 ### Version 1.0.0 - Published June 2023
 ![GitHub tag](https://img.shields.io/github/v/tag/readyplayerme/animation-library)
-![GitHub license](https://img.shields.io/github/license/readyplayerme/animation-library)
+![GitHub license](https://img.shields.io/github/license/readyplayerme/animation-library/LICENSE)
 
 ### Contents
 - [Overview](#overview)
