@@ -110,7 +110,7 @@ Please check out the tutorial below. If you're already a Ready Player Me partner
 
 ## Tutorials
 
-We provide the following general guides to loading the provided animations on Ready Player me avatars in Unity and Unreal Engine. However, other approaches and configurations maybe required depending on your own project needs.
+We provide the following general guides to loading the provided animations on Ready Player Me avatars in Unity and Unreal Engine. However, other approaches and configurations maybe required depending on your own project needs.
 
 [Using animations in Unity](/guides/Unity-Guide.md)
 
