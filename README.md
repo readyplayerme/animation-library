@@ -105,13 +105,16 @@ You can use any software that supports the FBX file type, including Unity, Unrea
 ### Where can I get help using these animations?
 Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
 
-We always aim to provide our partners with the highest quality assets, please let us know if you encounter any issues using these animations on your loaded Ready Player Me avatars, such as mesh deformation problems in extreme poses or any unexpected behaviour during playback.
 
 </br>
 
 ## Tutorials
 
-Please refer to the tutorials found here <link to tutorials in RPM docs> to learn how to load the provided animations onto Ready Player Me avatars.
+We always aim to provide our partners with the highest quality assets, please let us know if you encounter any issues using these animations on your loaded Ready Player Me avatars, such as mesh deformation problems in extreme poses or any unexpected behaviour during playback.
+
+[Using animations in Unity](/guides/Unity-Guide.md)
+
+[Using animations in Unreal](/guides/Unreal-Guide.md)
 
 </br>
 
