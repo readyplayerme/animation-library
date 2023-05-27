@@ -110,11 +110,11 @@ Please check out the tutorial below. If you're already a Ready Player Me partner
 
 ## Tutorials
 
-We always aim to provide our partners with the highest quality assets, please let us know if you encounter any issues using these animations on your loaded Ready Player Me avatars, such as mesh deformation problems in extreme poses or any unexpected behaviour during playback.
-
 [Using animations in Unity](/guides/Unity-Guide.md)
 
 [Using animations in Unreal](/guides/Unreal-Guide.md)
+
+We always aim to provide our partners with the highest quality assets, please let us know if you encounter any issues using these animations on your loaded Ready Player Me avatars, such as mesh deformation problems in extreme poses or any unexpected behaviour during playback.
 
 </br>
 
