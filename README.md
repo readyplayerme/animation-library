@@ -105,6 +105,8 @@ You can use any software that supports the FBX file type, including Unity, Unrea
 ### Where can I get help using these animations?
 Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
 
+We always aim to provide our partners with the highest quality assets, please let us know if you encounter any issues using these animations on your loaded Ready Player Me avatars, such as mesh deformation problems in extreme poses or any unexpected behaviour during playback.
+
 </br>
 
 ## Tutorials
@@ -122,5 +124,5 @@ The animation filename prefix denotes which actor gender was used to generate th
 | M_ | Motion captured from male actor |
 | F_ | Motion captured from female actress |
 
-We always aim to provide our partners with the highest quality assets, please let us know if you encounter any issues using these animations on your loaded Ready Player Me avatars, such as mesh deformation problems in extreme poses or any unexpected behaviour during playback.
+
 
