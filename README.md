@@ -122,12 +122,12 @@ We always aim to provide our partners with the highest quality assets, please le
 
 ## Notes
 
-The animation filename prefix denotes which actor gender was used to generate the motion:
+- In order to properly use this repository, you need to have Git Large File Storage (LFS) installed on your system.
+
+- The animation filename prefix denotes which actor gender was used to generate the motion:
 
 | Filename prefix | Description |
 | --------- | ----------- |
 | M_ | Motion captured from male actor |
 | F_ | Motion captured from female actress |
-
-
 
