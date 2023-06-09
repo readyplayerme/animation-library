@@ -1,5 +1,9 @@
 # Ready Player Me Animation Previews
 
+[Home](../../../README.md)
+
+This collection contains a variety of idle animations.
+
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 33%;">
