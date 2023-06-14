@@ -10,8 +10,8 @@
 ### Contents
 - [Overview](#overview)
 - [Animations](#animations)
-    - [Feminine Animations](#feminine-animations)
-    - [Masculine Animations](#masculine-animations)
+    - [Feminine Animations](#feminine-armature-animations)
+    - [Masculine Animations](#masculine-armature-animations)
 - [Frequently Asked Questions](#faq)
 - [Tutorials](#tutorials)
 - [Notes](#notes)
