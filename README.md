@@ -1,5 +1,5 @@
 <div align="left">
-    <img src="https://readyplayer.me/images/home/logo.svg" width="20%">
+    <img src="https://assets-global.website-files.com/647798cf71ec2048ea89ab07/647817558bc1d570b250c81e_RPM-logo.svg" width="20%">
 </div>
 
 # Game-Ready Animation Library by Ready Player Me
