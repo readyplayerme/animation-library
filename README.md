@@ -34,19 +34,19 @@ Click here to access the entire [Ready Player Me Feminine Character Library](/fe
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
-<img src="feminine\gif\locomotion\F_Run_001.gif" style="width:100%">
+<img src="feminine\gif\locomotion\F_Run_001.webp" style="width:100%">
   <div class="caption" align=middle> <a href="feminine/fbx/locomotion" target="_blank">Locomotion</a></div>
 </td>
 <td style="width: 25%;">
-<img src="feminine/gif/dance/F_Dances_005.gif" style="width:100%">
+<img src="feminine/gif/dance/F_Dances_005.webp" style="width:100%">
   <div class="caption" align=middle> <a href="feminine/fbx/dance" target="_blank">Dance</a></div>
 </td>
 <td style="width: 25%;">
-<img src="feminine/gif/expression/F_Talking_Variations_001.gif" style="width:100%">
+<img src="feminine/gif/expression/F_Talking_Variations_001.webp" style="width:100%">
   <div class="caption" align=middle> <a href="feminine/fbx/expression" target="_blank">Expression</a></div>
 </td>
 <td style="width: 25%;">
-<img src="feminine/gif/idle/F_Standing_Idle_Variations_002.gif" style="width:100%">
+<img src="feminine/gif/idle/F_Standing_Idle_Variations_002.webp" style="width:100%">
   <div class="caption" align=middle> <a href="feminine/fbx/idle" target="_blank">Idle</a></div>
 </td>
 </tr>
@@ -59,19 +59,19 @@ Click here to access the entire [Ready Player Me Masculine Character Library](/m
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
-<img src="masculine\gif\locomotion\F_Run_001.gif" style="width:100%">
+<img src="masculine\gif\locomotion\F_Run_001.webp" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/locomotion" target="_blank">Locomotion</a></div>
 </td>
 <td style="width: 25%;">
-<img src="masculine/gif/dance/F_Dances_001.gif" style="width:100%">
+<img src="masculine/gif/dance/F_Dances_001.webp" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/dance" target="_blank">Dance</a></div>
 </td>
 <td style="width: 25%;">
-<img src="masculine/gif/expression/F_Talking_Variations_004.gif" style="width:100%">
+<img src="masculine/gif/expression/F_Talking_Variations_004.webp" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/expression" target="_blank">Expression</a></div>
 </td>
 <td style="width: 25%;">
-<img src="masculine/gif/idle/F_Standing_Idle_Variations_001.gif" style="width:100%">
+<img src="masculine/gif/idle/F_Standing_Idle_Variations_001.webp" style="width:100%">
   <div class="caption" align=middle> <a href="masculine/fbx/idle" target="_blank">Idle</a></div>
 </td>
 </tr>
