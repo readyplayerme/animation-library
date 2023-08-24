@@ -18,7 +18,7 @@
 
 ## Overview
 
-This repository contains the initial batch of 200+ high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in any of your projects as per the license found [here](LICENSE).
+This repository contains the initial batch of 200+ high quality motion captured animations that have been retargeted to Ready Player Me character armatures. We provide these animations free for you to use in any of your projects as per the license found [here](LICENSE.md).
 
 All of the animations in this library were captured using both male and female actors in a professional motion capture studio. All animations captured from both male and female actors have been retargeted to each Ready Player Me character.
 
