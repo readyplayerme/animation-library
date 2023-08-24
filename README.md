@@ -94,7 +94,7 @@ Click here to access the entire [Ready Player Me Masculine Character Library](/m
 Yes, free as in beer! We created this animation library to help the game development community create more unique and engaging experiences. This is just the first batch of many more free releases. Please read our [license for more details](LICENSE.md).
 
 ### Can I use these animations with characters that are not from Ready Player Me?
-Although we've retargeted each animation specifically for the skeletons we use at Ready Player Me, you are free to use them with our avatars or with your own creations.
+The animations are specifically designed for Ready Player Me avatars and are not intended to be used with other characters.
 
 ### When will more animations be released?
 This is just the first batch of animations we're releasing to the community. We will continue releasing animations throughout 2023 and beyond.
