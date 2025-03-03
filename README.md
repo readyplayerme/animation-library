@@ -3,15 +3,18 @@
 </div>
 
 # Game-Ready Animation Library by Ready Player Me
+
 ### Version 1.0.0 - Published June 2023
+
 ![GitHub tag](https://img.shields.io/github/v/tag/readyplayerme/animation-library)
 ![GitHub license](https://img.shields.io/github/license/readyplayerme/animation-library)
 
 ### Contents
+
 - [Overview](#overview)
 - [Animations](#animations)
-    - [Feminine Animations](#feminine-armature-animations)
-    - [Masculine Animations](#masculine-armature-animations)
+  - [Feminine Animations](#feminine-armature-animations)
+  - [Masculine Animations](#masculine-armature-animations)
 - [Frequently Asked Questions](#faq)
 - [Tutorials](#tutorials)
 - [Notes](#notes)
@@ -30,7 +33,8 @@ You will find links below to all the character animations broken down by animati
 
 ### Feminine Armature Animations
 
-Click here to access the entire [Ready Player Me Feminine Character Library](/feminine/fbx/)
+Click here to access the entire [Ready Player Me Feminine Character Library](/feminine/)
+
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
@@ -55,7 +59,9 @@ Click here to access the entire [Ready Player Me Feminine Character Library](/fe
 </br>
 
 ### Masculine Armature Animations
-Click here to access the entire [Ready Player Me Masculine Character Library](/masculine/fbx/)
+
+Click here to access the entire [Ready Player Me Masculine Character Library](/masculine/)
+
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td style="width: 25%;">
@@ -82,8 +88,8 @@ Click here to access the entire [Ready Player Me Masculine Character Library](/m
 
 | Character | Description |
 | --------- | ----------- |
-| [Female](/female/fbx/) | Animations retargeted to Ready Player Me Female Armature |
-| [Male](/male/fbx/) | Animations retargeted to Ready Player Me Male Armature |
+| [Female](/feminine/) | Animations retargeted to Ready Player Me Female Armature |
+| [Male](/masculine/) | Animations retargeted to Ready Player Me Male Armature |
 
 -->
 </br>
@@ -91,20 +97,24 @@ Click here to access the entire [Ready Player Me Masculine Character Library](/m
 ## FAQ
 
 ### Are these animations really free?
+
 Yes, free as in beer! We created this animation library to help the game development community create more unique and engaging experiences. This is just the first batch of many more free releases. Please read our [license for more details](LICENSE.md).
 
 ### Can I use these animations with characters that are not from Ready Player Me?
+
 The animations are specifically designed for Ready Player Me avatars and are not intended to be used with other characters.
 
 ### When will more animations be released?
+
 This is just the first batch of animations we're releasing to the community. We will continue releasing animations throughout 2023 and beyond.
 
 ### What software do I need to use with these animations?
-You can use any software that supports the FBX file type, including Unity, Unreal Engine, Blender, Maya, Sketchfab, etc. 
+
+You can use any software that supports the FBX file type, including Unity, Unreal Engine, Blender, Maya, Sketchfab, etc.
 
 ### Where can I get help using these animations?
-Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
 
+Please check out the tutorial below. If you're already a Ready Player Me partner you can email support@readyplayer.me with additional questions, or sign up as a developer at [readyplayer.me/developers](https://readyplayer.me/developers).
 
 </br>
 
@@ -126,8 +136,7 @@ We always aim to provide our partners with the highest quality assets, please le
 
 - The animation filename prefix denotes which actor gender was used to generate the motion:
 
-| Filename prefix | Description |
-| --------- | ----------- |
-| M_ | Motion captured from male actor |
-| F_ | Motion captured from female actress |
-
+| Filename prefix | Description                         |
+| --------------- | ----------------------------------- |
+| M\_             | Motion captured from male actor     |
+| F\_             | Motion captured from female actress |
